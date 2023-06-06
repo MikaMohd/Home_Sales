@@ -1,6 +1,9 @@
 Home Sales
+
 Module 22 Challenge For Bootcamp: UTA-VIRT-DATA-PT-12-2022-U-LOLC-MTTH
+
 Summary Report
+
 This report presents the findings of analysis of a home sales dataset. used PySpark to perform various operations, including reading the dataset, creating temporary views, running SQL queries, caching, and saving the data in Parquet format.
 
 The dataset was read from an AWS S3 bucket into a PySpark DataFrame.
